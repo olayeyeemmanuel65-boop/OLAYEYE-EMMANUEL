@@ -1,16 +1,31 @@
-Hi, I'm Emmanuel
+Hi, I'm Emmanuel 
 
-AI Web Developer
-Vibe Coder
-Full Stack Developer
+AI Web Developer | Vibe Coder | Frontend Developer
 
-Building AI-powered websites,
-SaaS products,
-Landing pages,
-Dashboards,
-and web applications.
+I build modern, responsive, and AI-powered web applications that solve real business problems.
+
+What I Do
+- AI Web Applications
+- Modern Landing Pages
+- React & Vite Projects
+- JavaScript Development
+- Bug Fixing & Debugging
+- Responsive Websites
 
 Tech Stack
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Git • Vercel
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Git & GitHub
+- AI Tools
+- VS Code
 
-Available for freelance work
+Portfolio
+https://dave-o13j.vercel.app
+
+Contact
+Email: olayeyeemmanuel65@gmail.com
+
+Let's build something amazing together.
