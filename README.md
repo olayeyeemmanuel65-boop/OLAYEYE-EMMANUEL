@@ -22,9 +22,6 @@ Tech Stack
 - AI Tools
 - VS Code
 
-Portfolio
-https://dave-o13j.vercel.app
-
 Contact
 Email: olayeyeemmanuel65@gmail.com
 
